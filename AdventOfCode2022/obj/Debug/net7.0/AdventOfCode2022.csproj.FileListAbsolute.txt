@@ -1,0 +1,15 @@
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.deps.json
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.runtimeconfig.json
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.dll
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.pdb
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.csproj.AssemblyReference.cache
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.AssemblyInfoInputs.cache
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.AssemblyInfo.cs
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.csproj.CoreCompileInputs.cache
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.dll
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/refint/AdventOfCode2022.dll
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.pdb
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.genruntimeconfig.cache
+/Users/melissaastbury/Documents/Study/AdventOfCode2022/AdventOfCode2022/AdventOfCode2022/obj/Debug/net7.0/ref/AdventOfCode2022.dll
