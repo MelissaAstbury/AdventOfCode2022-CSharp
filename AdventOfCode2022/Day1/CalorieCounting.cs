@@ -32,7 +32,7 @@
 
             foreach(KeyValuePair<int, int> group in groupTotals.OrderBy(key => key.Value))
             {
-                Console.WriteLine("Key: {0}, Value: {1}", group.Key, group.Value);
+                //Console.WriteLine("Key: {0}, Value: {1}", group.Key, group.Value);
             };
 
             return maxValue;
